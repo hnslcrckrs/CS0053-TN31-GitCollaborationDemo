@@ -9,4 +9,11 @@ int main() {
     cout << "2. View Students" << endl;
     cout << "3. Exit" << endl;
     return 0;
+
+    cout << "Hello, Hans!" << endl;
+    cout << "Developed for CS0053" << endl;
+
+    for (int i = 0; i < 3; i++) {
+        cout << "I love Git!" << endl;
+    }
 }
